@@ -1,4 +1,5 @@
 TechHelp: Sistema Inteligente de Assistência Tecnológica
+
 O TechHelp é um software de assistência tecnológica que oferece diagnósticos e soluções para problemas técnicos. O sistema utiliza inteligência artificial para interpretar a descrição do problema fornecida pelo usuário e, se necessário, o conecta a um técnico especialista por meio de um chat em tempo real.
 
 
